@@ -13,7 +13,6 @@ int main() {
     if (name == true_name or true_password == password)
     {
         std::cout << "The user's data is correct";
-
     }
     else
     {
