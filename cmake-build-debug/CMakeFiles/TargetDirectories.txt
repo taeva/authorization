@@ -1,0 +1,3 @@
+/home/vk/CLionProjects/Login_in/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vk/CLionProjects/Login_in/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vk/CLionProjects/Login_in/cmake-build-debug/CMakeFiles/Login_in.dir
