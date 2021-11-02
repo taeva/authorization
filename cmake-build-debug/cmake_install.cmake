@@ -1,4 +1,4 @@
-# Install script for directory: /home/vk/CLionProjects/Login_in
+# Install script for directory: /home/vk/CLionProjects/authorization
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/vk/CLionProjects/Login_in/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/vk/CLionProjects/authorization/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

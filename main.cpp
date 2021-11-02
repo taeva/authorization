@@ -18,6 +18,6 @@ int main() {
     else
     {
           std::cout << "The user's data is not correct";
-          exit(0);
+          exit;
     }
 }

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/vk/CLionProjects/Login_in/main.cpp
+/home/vk/CLionProjects/authorization/main.cpp
 iostream
 -
 cstdlib

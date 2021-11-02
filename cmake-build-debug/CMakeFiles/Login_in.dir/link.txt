@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Login_in.dir/main.cpp.o -o Login_in 
+/usr/bin/c++ -g CMakeFiles/Login_in.dir/main.cpp.o -o Login_in 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/vk/CLionProjects/Login_in/main.cpp" "/home/vk/CLionProjects/Login_in/cmake-build-debug/CMakeFiles/Login_in.dir/main.cpp.o"
+  "/home/vk/CLionProjects/authorization/main.cpp" "/home/vk/CLionProjects/authorization/cmake-build-debug/CMakeFiles/Login_in.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
